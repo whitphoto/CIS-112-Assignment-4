@@ -1,0 +1,34 @@
+                    ERROR REPORT
+
+             FIELD      DATA       ERROR
+          TERRITORY      ZZ     NOT NUMERIC
+          AREA           ZZ     NOT NUMERIC
+          DEPARTMENT     ZZ     NOT NUMERIC
+          TERRITORY      YY     NOT NUMERIC
+          AREA           YY     NOT NUMERIC
+          DEPARTMENT     YY     NOT NUMERIC
+          AREA           GG     NOT NUMERIC
+          DEPARTMENT     GG     NOT NUMERIC
+          TERRITORY      04     OUT OF RANGE
+          DEPARTMENT     ZZ     NOT NUMERIC
+          AREA           GH     NOT NUMERIC
+          DEPARTMENT     16     OUT OF RANGE
+          DEPARTMENT     11     OUT OF RANGE
+          DEPARTMENT     12     OUT OF RANGE
+          AREA           SS     NOT NUMERIC
+          DEPARTMENT     17     OUT OF RANGE
+          AREA           06     OUT OF RANGE
+          TERRITORY      09     OUT OF RANGE
+          AREA           09     OUT OF RANGE
+          AREA           99     OUT OF RANGE
+          DEPARTMENT     89     OUT OF RANGE
+          DEPARTMENT     BB     NOT NUMERIC
+          TERRITORY      07     OUT OF RANGE
+          DEPARTMENT     0Z     NOT NUMERIC
+          DEPARTMENT     16     OUT OF RANGE
+          AREA           07     OUT OF RANGE
+          AREA           13     OUT OF RANGE
+          DEPARTMENT     19     OUT OF RANGE
+
+          GOOD RECORDS: 10
+           BAD RECORDS: 18
